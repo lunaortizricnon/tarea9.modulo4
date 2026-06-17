@@ -17,4 +17,4 @@ En pocas palabras, el puerto indica por dónde está funcionando el servidor.
 
 5. Los logs son registros que muestran lo que ocurre dentro del servidor. Funcionan como un historial de actividades donde se pueden ver mensajes, errores o eventos importantes.
 Sirven para verificar que el servidor está funcionando correctamente y para detectar problemas cuando algo falla.
- Por ejemplo, cuando ejecutas el servidor, el mensaje “Servidor ejecutándose en puerto 3000” es un log. En general, ayudan a monitorear y entender el comportamiento de la aplicación.
+Por ejemplo, cuando ejecutas el servidor, el mensaje “Servidor ejecutándose en puerto 3000” es un log. En general, ayudan a monitorear y entender el comportamiento de la aplicación.
