@@ -1,0 +1,20 @@
+1. El sistema operativo es el programa principal que permite que un computador funcione correctamente. Se encarga de organizar y administrar los recursos del equipo como la memoria, los archivos, los programas y el hardware. 
+También permite que el usuario pueda ejecutar aplicaciones y moverse entre carpetas de forma ordenada.
+En palabras simples, es la base que hace que todo el computador funcione y se pueda usar de manera normal. 
+Ejemplos de sistemas operativos son Windows, Linux, MacOS, Android e iOS. Sin un sistema operativo, el equipo no podría ejecutar ningún programa. Además, ayuda a mantener el trabajo organizado, lo cual es importante en el desarrollo de proyectos.
+
+2. Node.js es un entorno que permite ejecutar JavaScript fuera del navegador. Esto significa que no solo se usa para páginas web, sino también para crear servidores y trabajar en la parte interna de las aplicaciones.
+Sirve para crear servidores, manejar solicitudes, responder información y desarrollar la lógica de backend. También permite trabajar con APIs y conectar diferentes sistemas. 
+En sintesis, Node.js hace posible que JavaScript funcione del lado del servidor y no solo en la parte visual de una página web.
+
+3. El archivo server.js es el archivo principal donde se crea y configura el servidor. Es el encargado de iniciar la aplicación y definir cómo va a responder a las solicitudes que llegan desde el navegador.
+En este archivo se establecen las rutas, como por ejemplo “/” o “/estado”, y se define qué información debe responder el servidor. 
+También es el encargado de ejecutar la aplicación en un puerto específico, como el 3000. En general, es la parte más importante del backend porque controla el funcionamiento del servidor.
+
+4. Un puerto es como una “puerta de entrada” por donde se comunica una aplicación. Cuando ejecutamos un servidor local, por ejemplo en localhost:3000, el número 3000 es el puerto.
+Su función es permitir que el navegador se conecte correctamente con el servidor. Cada aplicación puede usar un puerto diferente para evitar conflictos.
+En pocas palabras, el puerto indica por dónde está funcionando el servidor.
+
+5. Los logs son registros que muestran lo que ocurre dentro del servidor. Funcionan como un historial de actividades donde se pueden ver mensajes, errores o eventos importantes.
+Sirven para verificar que el servidor está funcionando correctamente y para detectar problemas cuando algo falla.
+ Por ejemplo, cuando ejecutas el servidor, el mensaje “Servidor ejecutándose en puerto 3000” es un log. En general, ayudan a monitorear y entender el comportamiento de la aplicación.

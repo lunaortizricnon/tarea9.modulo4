@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas que usan las comunidades funcionen bien y seguras en un servidor porque de eso depende que la información llegue a todos sin problemas.
+Si el servidor es estable, las personas pueden entrar en cualquier momento y usar la plataforma sin que se caiga o falle. También es importante porque así los mensajes, reportes o avisos no se pierden.
+
+La seguridad también es muy importante porque protege la información de las personas y evita que otros entren a hacer daño o roben datos.
+Además, ayuda a que todo funcione más organizado y rápido. Si el sistema falla o es inseguro, puede haber confusión y la gente no recibe la información a tiempo.
+
+Por eso es importante que todo funcione bien, para que la comunidad pueda comunicarse mejor y estar siempre informada de lo que pasa.
